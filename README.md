@@ -4,7 +4,7 @@ A site for showcasing the wonderful projects created by FAC19, the 19th Cohort o
 
 In weeks 1-8 we build projects in teams of 4 in a day and a half, followed by code review and presentations to the rest of the cohort about our approach, challenges encountered and what we learnt! The second half of the course is dedicated to two longer projects - each of which consists of a design sprint and two build sprints.
 
-Credit to Jan @crianonim for this incredible idea!
+Credit to Jan @[crianonim](https://github.com/crianonim) for this incredible idea!
 
 ## Updating and maintaining this repo
 
